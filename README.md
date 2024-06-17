@@ -1,1 +1,3 @@
 # Analisando-dados-do-Titanic
+
+Para este projeto, utilizei um dataset contendo dados do Titanic, disponibilizado na biblioteca do Seaborn: https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv. Após carregar os dados, foram utilizadas as bibliotecas pandas e numpy para o tratamento de dados. As abordagens analíticas utilizadas foram exploratórias e descritivas, com o objetivo de compreender o perfil dos tripulantes que embarcaram no Titanic e validar a hipótese: as mortes concentraram-se na terceira classe de embarque. Ao final das análises, a hipótese foi validada e ficou evidente incoerências, como crianças que embarcaram sozinhas, fato que contibuiu para a morte de 61.39% das crianças.
